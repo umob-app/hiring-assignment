@@ -14,7 +14,7 @@ We hope you have fun building this!
 - A git repo with:
 	- Source code.
 	- Instructions to build and run.
-	- Architecture overview.
+	- Architecture overview and tech stack choices rationale.
 	- Things you would change if you had more time.
 ## The assignment: Fun with GBFS
 
@@ -29,7 +29,7 @@ We hope you have fun building this!
 	- Each wrong answer takes away 20 points. 
 	- The user wins the game if they keep a positive balance of points for the duration of the game.
 	- After the end of the game, the user can see a list of their attempts and scores and can restart the game.
-- You have freedom in deciding on the UX/UI of the game, wether it's a map, a command-line game or anything else.
+- You have freedom in choosing the tech stack and deciding on the UX/UI of the game, wether it's a map, a command-line game or anything else.
 
 ### Bonus Points
 
